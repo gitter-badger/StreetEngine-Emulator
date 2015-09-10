@@ -6,7 +6,7 @@ StreetEngine is a non-profit server side emulator for the game StreetGears. This
 Note: This is my first time with packet.
 
 - [**Setup**]()
-  - [MySQL Database installation]((###database))
+  - [MySQL Database installation](#database-setup)
   - [StreetEngine setup]()
 - [**Informations**]()
   - [Database]()
