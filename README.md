@@ -70,7 +70,7 @@ First 2 bytes of the packet. | Next 2 bytes after the header. | 4th byte of the 
   - [Full Source Code]()
 
 # Credits
-- http://github.com/itsexe/ for teaching me about StreetGear's packets and helping me with login sockets.
+- http://github.com/itsexe/ for teaching me about StreetGear's packets and helping me with login.
 - https://github.com/skeezr/ for helping me with TCP sockets and SilverSock.
 - http://www.elitepvpers.com/forum/members/4193997-k1ramox.html for packets encryption offsets. 
 
