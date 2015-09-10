@@ -65,9 +65,9 @@ Header | Lenght | Hash
 First 2 bytes of the packet. | Next 2 bytes after the header. | 4th byte of the packet (the last one).
 
 # Binaries
-- [**Lastest update (v1.0.0.0)**]()
-  - [Binary]()
-  - [Full Source Code]()
+- [**Lastest update (v1.0.0.0)**](https://github.com/greatmaes/StreetEngine-Emulator/releases/tag/1.0.0.0)
+  - [Binary](https://github.com/greatmaes/StreetEngine-Emulator/releases/download/1.0.0.0/StreetEngine-Emulator-Binary.rar)
+  - [Full Source Code](https://github.com/greatmaes/StreetEngine-Emulator/releases/download/1.0.0.0/StreetEngine-Emulator-Full-Source.rar)
 
 # Credits
 - http://github.com/itsexe/ for teaching me about StreetGear's packets and helping me with login.
