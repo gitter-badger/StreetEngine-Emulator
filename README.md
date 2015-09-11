@@ -1,4 +1,6 @@
 # StreetEngine-Emulator
+
+[![Join the chat at https://gitter.im/greatmaes/StreetEngine-Emulator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greatmaes/StreetEngine-Emulator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *Sorry for bad english grammar, this is not my native language, I did my best.*
 
 StreetEngine is a non-profit server side emulator for the game StreetGears. This is mostly a project to learn how to make your own emulator as I don't have the knowledge to finish this project by myself. Feel free to contribute.
